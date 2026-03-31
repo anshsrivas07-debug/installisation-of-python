@@ -4,9 +4,9 @@ Title
 Introduction to Python Programming and Installation of Jupyter Notebook Using Anaconda
 
 
-Name:Prithvi Ratkalkar
+Name:Ansh Srivastav
 
-PRN:25070123165
+PRN:25070123015
 
 Batch: ENTC-A1
 ________________________________________
